@@ -5,3 +5,8 @@ __pycache__/
 raw-log-files/
 Raw/
 innout_log_2026.json
+
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

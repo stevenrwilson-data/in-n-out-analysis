@@ -1,0 +1,4 @@
+maximum_span_seconds,burst_groups,groups_with_2plus_orders,groups_with_3plus_orders,fraction_orders_in_2plus_groups,groups_with_multiple_announcements,corrected_orders
+5,662,138,25,0.3694344163658243,15,831.0
+10,639,157,28,0.41997593261131166,38,831.0
+15,629,163,32,0.43922984356197353,47,831.0

@@ -1,0 +1,1 @@
+sample_id,timestamp,channel,scope,sample_type,order_id,counts_complete,cups_small,cups_medium,cups_large,cups_unknown_size,regular_fries,animal_fries,bags,boxes,trays,hamburgers,cheeseburgers,double_doubles,other_burgers,known_burgers,known_orders,notes

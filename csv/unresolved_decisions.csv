@@ -1,0 +1,3 @@
+item,status,reason
+Car 305,Unresolved; retained,Tracked car 11 vanished; closure may have generated this completion
+Cars 296/297,Retained,Same timestamp alone does not establish an accidental duplicate

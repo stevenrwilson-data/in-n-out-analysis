@@ -1,0 +1,7 @@
+schedule,mode,supported_hour_contribution,full_day_estimate,bootstrap_low,bootstrap_high,complete_bootstrap_fraction,preliminary_hour_cells,missing_hour_cells
+10 AM to 1 AM,drive_thru,756.7462089386208,756.7462089386208,,,0.4766666666666667,6,
+10 AM to 1 AM,counter,565.9464791402925,,,,0.0,7,counter 10 AM; counter 3 PM
+10 AM to 1 AM,combined,1322.6926880789135,,,,0.0,13,counter 10 AM; counter 3 PM
+10 AM to 1:30 AM,drive_thru,756.7462089386208,,,,0.0,7,drive_thru 1 AM
+10 AM to 1:30 AM,counter,565.9464791402925,,,,0.0,8,counter 10 AM; counter 3 PM; counter 1 AM
+10 AM to 1:30 AM,combined,1322.6926880789135,,,,0.0,15,counter 10 AM; counter 3 PM; drive_thru 1 AM; counter 1 AM
